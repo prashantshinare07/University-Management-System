@@ -1,1 +1,1 @@
-# University-Management-System
+A University Management System is a comprehensive software application designed to streamline and automate the administrative, academic, and operational functions of a university or educational institution. Essentially, it acts as a central hub for managing all aspects of the university ecosystem, from student admissions to alumni relations.
